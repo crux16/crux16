@@ -8,6 +8,4 @@ Objectives:
 - 🌱 I’m currently learning <a href="https://react.dev/learn" target="_target">ReactJS</a>~
 - 👯 I’m looking to collaborate on creating web development projects~
 - 🤔 I’m looking for help with mentoring my capabalities~
-- 💬 Ask me about ...
 - 📫 How to reach me: <a href="email:rcalipay">rcalipay@gmail.com</a>
-- ⚡ Fun fact: ...
