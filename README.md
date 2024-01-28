@@ -10,7 +10,7 @@
   
 - 🌱&nbsp; I’m currently learning <a href="https://react.dev/learn" target="_target">ReactJS</a>~
   
-- 👯&nbsp; I’m looking to collaborate on creating web development projects~
+- 👯&nbsp; I’m looking to collaborate on creating web development <a href="#team-project">team projects</a>~
   
 - 🤔&nbsp; I’m looking for help with mentoring and improve my current self~
   
@@ -27,6 +27,9 @@
 <h4>MARKUP & LANGUAGES</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crux16&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/crux16/github-readme-stats)
+
+<h4 id="team-project">Team Project as collaborator</h4>
+ - &nbsp;
 
 <h4>🌐 Connect with me</h4>
 <p>
