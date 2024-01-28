@@ -2,7 +2,7 @@
 <br />
 Hi! I am <strong><i>Rowell Calipay</i></strong>, aspiring web development
 
-Here are some ideas to get you started:
+Objectives:
 
 - 🔭 I’m currently working on my own Portfolio~
 - 🌱 I’m currently learning <a href="https://react.dev/learn" target="_target">ReactJS</a>~
