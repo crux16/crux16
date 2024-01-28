@@ -23,15 +23,12 @@
 - 🛢 &nbsp; Axios | RestAPI
 - 🔧 &nbsp;  Visual Studio code | Git
 - 🖥 &nbsp; Figma
-
-<h4>💻 MARKUP & LANGUAGES</h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crux16&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/crux16/github-readme-stats)
-
 <h4 id="team-project">🌏Team Project, I collaborated with:</h4>
 
 - 👬 &nbsp; <a href="https://crux16.github.io/goit-project-team">FRESH HARVEST BOX</a> by <a href="https://github.com/crux16/goit-project-team">team-hashtag 1</a> - final project in HTML/CSS BLOCK under GoITPH BOOTCAMP.
 - 🧑‍🤝‍🧑 &nbsp; <a href="https://jandiman.github.io/goit-js-team-4-project/">Filmoteka</a> by <a href="https://github.com/jandiman/goit-js-team-4-project">JS LEAGUE</a> - final project in JS BLOCK under GoIT BOOTCAMP.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crux16&layout=donut-vertical&text_color=daf7dc&bg_color=151515&card_width=350&custom_title=💻%20Mark%20up%20and%20Languages%20used)](https://github.com/crux16/github-readme-stats)
 
 
 <h4>🌐 Connect with me</h4>
