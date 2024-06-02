@@ -8,7 +8,7 @@
 
 - 🔭&nbsp; I’m currently working on my own Portfolio~
   
-- 🌱&nbsp; I’m currently learning <a href="https://react.dev/learn" target="_target">ReactJS</a>~
+- 🌱&nbsp; I’m currently learning <a href="https://react.dev/learn" target="_target">NodeJS</a>~
   
 - 👯&nbsp; I’m looking to collaborate on creating web development team projects~
   
